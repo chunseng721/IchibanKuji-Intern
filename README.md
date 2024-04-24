@@ -2,7 +2,7 @@ The ICHIBAN KUJI web application is customized from the ##Freshbey open-source e
 You may follow all the instructions below to initialize the application.
 The idea is to digitalize the ICHIBAN KUJI from physical to online web version.
 ### For admin,
-Inside the customized web application, you may self create the 'Category', 'Carousel', 'Product' for ICHIBAN KUJI by using admin account. To use the admin, you must first import the data by using 
+Inside the customized web application, you may self create the 'Category', 'Carousel', 'Product' for ICHIBAN KUJI by using admin account. To use the admin account, you must first import the data by using 
     npm run data:import 
 to get the admin account 
 - email    ---> admin@admin.com
