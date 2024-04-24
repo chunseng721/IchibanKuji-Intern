@@ -1,12 +1,12 @@
-# The ICHIBAN KUJI web application is customized from the ##Freshbey open-source ecommerce application.
-# You may follow all the instructions below to initialize the application.
-# The idea is to digitalize the ICHIBAN KUJI from physical to online web version.
-# For admin,
- ### Inside the customized web application, you may self create the 'Category', 'Carousel', 'Product' for ICHIBAN KUJI by using admin account. To use the admin, you must first import the data by using 
-      npm run data:import 
- ### to get the admin account - email ---> admin@admin.com, password ---> 123456
-# For user, 
-  ### You can self register an user account. After that, user required to buy the credits and use the credit to purchase the ticket and scratch it, each tickets contains different prizes from the lowest grade to the highest grade, the prize scratched is then being added to the user cart, and user can place the order whenever they finished the game, the prizes will be delivered to their desired place based on given address.
+The ICHIBAN KUJI web application is customized from the ##Freshbey open-source ecommerce application.
+You may follow all the instructions below to initialize the application.
+The idea is to digitalize the ICHIBAN KUJI from physical to online web version.
+### For admin,
+Inside the customized web application, you may self create the 'Category', 'Carousel', 'Product' for ICHIBAN KUJI by using admin account. To use the admin, you must first import the data by using 
+    npm run data:import 
+to get the admin account - email ---> admin@admin.com, password ---> 123456
+### For user, 
+You can self register an user account. After that, user required to buy the credits and use the credit to purchase the ticket and scratch it, each tickets contains different prizes from the lowest grade to the highest grade, the prize scratched is then being added to the user cart, and user can place the order whenever they finished the game, the prizes will be delivered to their desired place based on given address.
 
 
 # -------------------Original Readme file from Freshbey ------------------------#
