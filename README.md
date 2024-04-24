@@ -11,7 +11,7 @@ to get the admin account
 You can self register an user account. After that, user required to buy the credits and use the credit to purchase the ticket and scratch it, each tickets contains different prizes from the lowest grade to the highest grade, the prize scratched is then being added to the user cart, and user can place the order whenever they finished the game, the prizes will be delivered to their desired place based on given address.
 
 
-# -------------------Original Readme file from Freshbey ------------------------#
+# ------------------Original Readme file from Freshbey -------------------
 # Freshbey
 
 An open-source and self-hostable ecommerce application with a focus on developer productivity and ease of customization.
